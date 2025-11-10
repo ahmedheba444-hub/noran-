@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://golden-macaron-459ac2.netlify.app/sitemap.xml
